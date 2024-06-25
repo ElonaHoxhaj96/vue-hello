@@ -5,6 +5,9 @@ createApp({
     data() {
         return {
             myTitle: "Hello World!! Welcome to my website",  
+            myImage: "img/sunflower.jpg"
         }
     },
+    
 }).mount('#container_title')
+
